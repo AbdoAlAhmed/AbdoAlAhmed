@@ -5,7 +5,7 @@
 <p align="left">I am a passionate Android developer with experience in Kotlin programming language. I am currently learning and expanding my skills in Android development. I am open to new opportunities and collaborations. Feel free to reach out to me for any questions or inquiries.</p>
 <h3 align="left">Contact Information:</h3>
 <ul>
-  <li>Email: AbdoAhmed.bzn@gmail.com</li>
+  <li>Email: <a href = AbdoAhmed.bzn@gmail.com target="blank">AbdoAhmed.bzn@gmail.com </a></li>
   <li>LinkedIn: <a href="https://linkedin.com/in/abdo-ahmed-a42a38197" target="blank">https://linkedin.com/in/abdo-ahmed-a42a38197</a></li>
 </ul>
 <h3 align="left">Skills and Tools:</h3>

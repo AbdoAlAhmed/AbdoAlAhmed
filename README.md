@@ -6,7 +6,7 @@
 <h3 align="left">Contact Information:</h3>
 <ul>
   <li>Email: <a href = "mailto:AbdoAhmed.bzn@gmail.com">AbdoAhmed.bzn@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/abdo-ahmed-a42a38197" target="blank">https://linkedin.com/in/abdo-ahmed-a42a38197</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/abdo-ahmed-" target="blank">https://linkedin.com/in/abdo-ahmed-a42a38197</a></li>
 </ul>
 <h3 align="left">Skills and Tools:</h3>
 <ul>
